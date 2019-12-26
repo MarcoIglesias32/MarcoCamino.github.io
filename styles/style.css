@@ -1,7 +1,7 @@
 h1 {
   color: red;
   text-size: 50px;
-  font-family: "Ma Shan Zheng", cursive;
+  font-family: 'Ma Shan Zheng', cursive;
 }
 
 h2 {
@@ -11,5 +11,5 @@ h2 {
 
 h3 {
   margin-left: 3px;
-  font-family: "Roboto Slab", serif;
+  font-family: 'Lobster', cursive;
 }
