@@ -5,8 +5,9 @@ h1 {
 }
 
 h2 {
+  color: black;
   margin-left: 2px;
-  font-family: "Pacifico", cursive;
+  font-family: 'Pacifico', cursive;
 }
 
 h3 {
