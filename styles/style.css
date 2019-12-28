@@ -15,4 +15,6 @@ h2 {
   margin-left: 2px;
   font-family: 'Pacifico', cursive;
 }
-
+p {
+  text-size: 20px;
+}
